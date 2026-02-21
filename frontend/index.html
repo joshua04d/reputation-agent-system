@@ -1,89 +1,239 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-
-<title>AI Reputation System</title>
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-<style>
-
-body {
-    font-family: Arial;
-    background: #0f172a;
-    color: white;
-}
-
-.container {
-    display: flex;
-    gap: 20px;
-}
-
-.card {
-    background: #1e293b;
-    padding: 15px;
-    border-radius: 10px;
-}
-
-button {
-    padding: 10px;
-    background: #3b82f6;
-    border: none;
-    color: white;
-    border-radius: 5px;
-}
-
-</style>
-
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Reputation Agent System — Live Dashboard</title>
+  <meta name="description" content="Live AI reputation simulation dashboard tracking agent decisions, fairness scores, and resource pool dynamics in a multi-agent game." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="css/style.css" />
 </head>
 
 <body>
 
-<h1>AI Reputation System Dashboard</h1>
+  <!-- Animated background blobs -->
+  <div class="bg-blobs">
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+  </div>
 
-<div class="card">
+  <!-- ─── HEADER ─── -->
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <div class="logo-icon">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+            <circle cx="12" cy="12" r="3" />
+            <path d="M12 1v4M12 19v4M4.22 4.22l2.83 2.83M16.95 16.95l2.83 2.83M1 12h4M19 12h4M4.22 19.78l2.83-2.83M16.95 7.05l2.83-2.83" />
+          </svg>
+        </div>
+        <div>
+          <h1 class="logo-title">Reputation Agent System</h1>
+          <p class="logo-sub">Multi-Agent Commons Simulation</p>
+        </div>
+      </div>
 
-Humans:
-<input id="humans" type="number" value="5">
+      <div class="header-right">
+        <div id="live-badge" class="live-badge live-badge--idle">
+          <span class="live-dot"></span>
+          <span id="live-text">IDLE</span>
+        </div>
+        <div class="header-time" id="header-clock"></div>
+      </div>
+    </div>
+  </header>
 
-Agents:
-<input id="agents" type="number" value="5">
+  <main class="main">
 
-Rounds:
-<input id="rounds" type="number" value="50">
+    <!-- ─── CONTROL PANEL ─── -->
+    <section class="control-card glass-card">
+      <div class="control-card__header">
+        <h2 class="section-title">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+          Game Configuration
+        </h2>
+        <div id="round-badge" class="round-badge">Round — / —</div>
+      </div>
 
-<button onclick="startGame()">Start Game</button>
+      <div class="control-grid">
+        <div class="input-group">
+          <label for="humans">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>
+            Human Players
+          </label>
+          <input id="humans" type="number" value="5" min="1" max="50" />
+        </div>
+        <div class="input-group">
+          <label for="agents">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+            AI Agents
+          </label>
+          <input id="agents" type="number" value="5" min="1" max="50" />
+        </div>
+        <div class="input-group">
+          <label for="rounds">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+            Rounds
+          </label>
+          <input id="rounds" type="number" value="50" min="5" max="500" />
+        </div>
+        <div class="btn-group">
+          <button id="start-btn" class="btn btn--primary" onclick="startGame()">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+            Start Simulation
+          </button>
+        </div>
+      </div>
+    </section>
 
-</div>
+    <!-- ─── STAT CARDS ─── -->
+    <section class="stat-grid">
+      <div class="stat-card glass-card">
+        <div class="stat-icon stat-icon--blue">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        </div>
+        <div class="stat-content">
+          <div class="stat-label">Current Round</div>
+          <div class="stat-value" id="stat-round">—</div>
+        </div>
+        <div class="stat-sparkline" id="spark-round"></div>
+      </div>
 
-<div class="container">
+      <div class="stat-card glass-card">
+        <div class="stat-icon stat-icon--green">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        </div>
+        <div class="stat-content">
+          <div class="stat-label">Avg Reputation</div>
+          <div class="stat-value" id="stat-rep">—</div>
+        </div>
+        <div class="stat-sparkline" id="spark-rep"></div>
+      </div>
 
-<div class="card">
-<h2>Status</h2>
-<div id="status"></div>
-</div>
+      <div class="stat-card glass-card">
+        <div class="stat-icon stat-icon--amber">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+        </div>
+        <div class="stat-content">
+          <div class="stat-label">Resource Pool</div>
+          <div class="stat-value" id="stat-pool">—</div>
+        </div>
+        <div class="stat-sparkline" id="spark-pool"></div>
+      </div>
 
-<div class="card">
-<h2>Players</h2>
-<div id="players"></div>
-</div>
+      <div class="stat-card glass-card">
+        <div class="stat-icon stat-icon--purple">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        </div>
+        <div class="stat-content">
+          <div class="stat-label">Total Players</div>
+          <div class="stat-value" id="stat-players">—</div>
+        </div>
+        <div class="stat-sparkline" id="spark-players"></div>
+      </div>
+    </section>
 
-<div class="card">
-<h2>Live Explanations</h2>
-<div id="explanations" style="height:200px;overflow:auto;"></div>
-</div>
+    <!-- ─── CHARTS ROW ─── -->
+    <section class="charts-row">
 
-</div>
+      <!-- Reputation Over Time -->
+      <div class="chart-card glass-card">
+        <div class="chart-header">
+          <h2 class="section-title">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+            Reputation Over Time
+          </h2>
+          <div class="chart-legend" id="rep-legend"></div>
+        </div>
+        <div class="chart-wrap">
+          <canvas id="rep-chart"></canvas>
+        </div>
+      </div>
 
-<div class="card">
+      <!-- Resource Pool -->
+      <div class="chart-card chart-card--sm glass-card">
+        <div class="chart-header">
+          <h2 class="section-title">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+            Resource Pool
+          </h2>
+        </div>
+        <div class="chart-wrap">
+          <canvas id="pool-chart"></canvas>
+        </div>
+      </div>
 
-<h2>Reputation Graph</h2>
-<canvas id="chart"></canvas>
+    </section>
 
-</div>
+    <!-- ─── BOTTOM ROW: Player Table + Explanations ─── -->
+    <section class="bottom-row">
 
-<script src="js/main.js"></script>
+      <!-- Player Leaderboard -->
+      <div class="table-card glass-card">
+        <div class="card-header">
+          <h2 class="section-title">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+            Player Leaderboard
+          </h2>
+          <div class="player-filter">
+            <button class="filter-btn active" data-filter="all" onclick="setFilter('all', this)">All</button>
+            <button class="filter-btn" data-filter="human" onclick="setFilter('human', this)">Humans</button>
+            <button class="filter-btn" data-filter="agent" onclick="setFilter('agent', this)">Agents</button>
+          </div>
+        </div>
+
+        <div class="table-wrap">
+          <table class="player-table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Name</th>
+                <th>Type</th>
+                <th>Reputation</th>
+                <th>Total Taken</th>
+                <th>Status</th>
+              </tr>
+            </thead>
+            <tbody id="player-tbody">
+              <tr class="empty-row">
+                <td colspan="6">Start a simulation to see players appear here</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- AI Explanation Feed -->
+      <div class="explain-card glass-card">
+        <div class="card-header">
+          <h2 class="section-title">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+            AI Decision Log
+          </h2>
+          <span class="explain-count" id="explain-count">0 events</span>
+        </div>
+        <div class="explain-feed" id="explain-feed">
+          <div class="explain-empty">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" opacity="0.3"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+            <p>AI explanations will appear here once the simulation starts</p>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+  </main>
+
+  <!-- ─── FOOTER ─── -->
+  <footer class="footer">
+    <p>Reputation Agent System &nbsp;·&nbsp; Multi-Agent Commons Simulation &nbsp;·&nbsp; Powered by FastAPI + Chart.js</p>
+  </footer>
+
+  <script src="js/main.js"></script>
 
 </body>
 </html>
