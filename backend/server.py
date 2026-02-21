@@ -5,6 +5,7 @@ from backend.players.player_manager import PlayerManager
 from backend.game.round_processor import RoundProcessor
 from reputation.reputation_engine import ReputationEngine
 from agents.adaptive_agent import AdaptiveAgent
+from backend.game_data_logger import GameDataLogger
 
 
 class GameServer:
@@ -35,6 +36,9 @@ class GameServer:
         # Reputation engine
         self.reputation_engine = ReputationEngine()
 
+        # NEW
+        self.data_logger = GameDataLogger()
+
     # -----------------------------
     # Add human player
     # -----------------------------
@@ -44,6 +48,12 @@ class GameServer:
 
         # Initialize reputation
         self.reputation_engine.initialize_player(player.player_id)
+
+        # SAVE PLAYER DATA
+        self.data_logger.save_players(
+            self.player_manager,
+            self.reputation_engine
+        )
 
         return player
 
@@ -69,6 +79,12 @@ class GameServer:
 
         # Initialize reputation
         self.reputation_engine.initialize_player(player.player_id)
+
+        # SAVE PLAYER DATA
+        self.data_logger.save_players(
+            self.player_manager,
+            self.reputation_engine
+        )
 
         return player
 
@@ -105,21 +121,21 @@ class GameServer:
                 player_reps
             )
 
-            # Only print explanations if verbose mode enabled
-            if self.verbose:
+            explanation = player.agent.get_last_explanation()
 
-                explanation = player.agent.get_last_explanation()
+            # Log explanation
+            if hasattr(self, "logger"):
+
+                self.logger.log_explanation(
+                    self.game_state.current_round,
+                    player.player_id,
+                    explanation
+                )
+
+            if self.verbose:
 
                 print(f"\n{player.name} decision: {decision:.2f}")
                 print(f"Explanation: {explanation}")
-
-                # log explanation if logger exists
-                if hasattr(self, "logger"):
-                    self.logger.log_explanation(
-                        self.game_state.current_round,
-                        player.player_id,
-                        explanation
-                    )
 
             # Store decision in game state
             self.game_state.add_player_choice(
@@ -151,5 +167,19 @@ class GameServer:
                 fair_share=fair_share,
                 round_number=round_number
             )
+
+        # LOG DATA
+        self.data_logger.log_round(
+            round_number,
+            self.game_state.resource_pool,
+            fair_share,
+            result,
+            self.reputation_engine
+        )
+
+        self.data_logger.save_players(
+            self.player_manager,
+            self.reputation_engine
+        )
 
         return result

@@ -13,7 +13,7 @@ class SimulationRunner:
         self.num_agents = num_agents
         self.num_rounds = num_rounds
 
-        self.server = GameServer()
+        self.server = GameServer(verbose=False)
 
         self.humans = []
         self.agents = []
@@ -24,6 +24,9 @@ class SimulationRunner:
         self.avg_reputation_per_round = []
 
         self.logger = DataLogger()
+
+        # IMPORTANT FIX: Connect logger to server
+        self.server.logger = self.logger
 
     # -----------------------------
     # Setup players

@@ -1,0 +1,5 @@
+experiment_name,num_humans,num_agents,num_rounds,cooperation_rate,final_avg_reputation
+balanced_system,5,5,100,0.28,63.7
+ai_only,0,10,100,1.0,100.0
+human_only,10,0,100,1.0,66.3
+agent_dominated,2,8,100,0.34,55.3
