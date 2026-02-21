@@ -1,7 +1,7 @@
 # backend/game/game_state.py
 
 class GameState:
-    def __init__(self, max_players=4, max_rounds=20, initial_pool=100):
+    def __init__(self, max_players=100, max_rounds=100000000, initial_pool=500):
         """
         Stores the current state of the game
         """
