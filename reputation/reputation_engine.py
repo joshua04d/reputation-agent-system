@@ -61,7 +61,17 @@ class ReputationEngine:
             fairness = "very_greedy"
 
         # Update reputation score
+        # Base fairness change
         new_score = self.reputation_scores[player_id] + change
+        
+        # Add consistency bonus/penalty
+        consistency_change = self.calculate_consistency_score(player_id)
+        new_score += consistency_change
+        
+        # Add recovery bonus
+        recovery_change = self.calculate_recovery_score(player_id)
+        new_score += recovery_change
+
 
         # Clamp score between min and max
         new_score = max(self.min_score, min(self.max_score, new_score))
@@ -70,12 +80,15 @@ class ReputationEngine:
 
         # Store history
         self.player_history[player_id].append({
-            "round": round_number,
-            "taken": amount_taken,
-            "fair_share": fair_share,
-            "fairness": fairness,
-            "score": new_score
+        "round": round_number,
+        "taken": amount_taken,
+        "fair_share": fair_share,
+        "fairness": fairness,
+        "score": new_score,
+        "consistency_change": consistency_change,
+        "recovery_change": recovery_change
         })
+
 
     # -----------------------------
     # Get reputation score
@@ -106,3 +119,51 @@ class ReputationEngine:
 
         for player_id, score in self.reputation_scores.items():
             print(f"Player {player_id}: {score}")
+
+
+    # -----------------------------
+    # Calculates consistency based on variation in behavior Lower variation = higher consistency
+    # -----------------------------
+
+
+    def calculate_consistency_score(self, player_id):
+
+        history = self.player_history.get(player_id, [])
+
+        if len(history) < 2:
+            return 0
+
+        takes = [entry["taken"] for entry in history]
+
+        avg = sum(takes) / len(takes)
+
+        variance = sum((x - avg) ** 2 for x in takes) / len(takes)
+
+        # Convert variance into score impact
+        if variance < 25:
+            return 2
+        elif variance < 100:
+            return 0
+        else:
+            return -2
+
+
+    # -----------------------------
+    # Rewards player if they improve after greedy behavior
+    # -----------------------------
+
+    def calculate_recovery_score(self, player_id):
+
+
+        history = self.player_history.get(player_id, [])
+
+        if len(history) < 2:
+            return 0
+
+        last = history[-1]
+        previous = history[-2]
+
+        if previous["fairness"] in ["greedy", "very_greedy"] and last["fairness"] == "fair":
+            return 3
+
+        return 0
