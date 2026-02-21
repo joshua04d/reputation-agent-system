@@ -9,10 +9,16 @@ from agents.adaptive_agent import AdaptiveAgent
 
 class GameServer:
 
-    def __init__(self):
+    def __init__(self, verbose=False):
         """
         Main controller for the entire game system
+
+        verbose = True  → show AI explanations
+        verbose = False → silent mode (for simulations)
         """
+
+        # NEW: store verbose flag
+        self.verbose = verbose
 
         # Player manager
         self.player_manager = PlayerManager()
@@ -71,12 +77,10 @@ class GameServer:
     # -----------------------------
     def submit_choice(self, player_id, amount):
 
-        # Store player choice
         self.game_state.add_player_choice(player_id, amount)
 
         total_players = self.player_manager.get_total_players()
 
-        # Check if round complete
         if self.game_state.all_players_submitted(total_players):
 
             return self.process_round()
@@ -101,8 +105,23 @@ class GameServer:
                 player_reps
             )
 
-            decision = max(0, decision)
+            # Only print explanations if verbose mode enabled
+            if self.verbose:
 
+                explanation = player.agent.get_last_explanation()
+
+                print(f"\n{player.name} decision: {decision:.2f}")
+                print(f"Explanation: {explanation}")
+
+                # log explanation if logger exists
+                if hasattr(self, "logger"):
+                    self.logger.log_explanation(
+                        self.game_state.current_round,
+                        player.player_id,
+                        explanation
+                    )
+
+            # Store decision in game state
             self.game_state.add_player_choice(
                 player.player_id,
                 decision

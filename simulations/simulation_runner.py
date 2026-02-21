@@ -2,11 +2,12 @@
 import matplotlib.pyplot as plt
 import random
 from backend.server import GameServer
+from backend.data_logger import DataLogger
 
 
 class SimulationRunner:
 
-    def __init__(self, num_humans=5, num_agents=5, num_rounds=100):
+    def __init__(self, num_humans=5, num_agents=5, num_rounds=10):
 
         self.num_humans = num_humans
         self.num_agents = num_agents
@@ -21,6 +22,8 @@ class SimulationRunner:
         self.cooperation_count = 0
         self.penalty_count = 0
         self.avg_reputation_per_round = []
+
+        self.logger = DataLogger()
 
     # -----------------------------
     # Setup players
@@ -96,6 +99,11 @@ class SimulationRunner:
 
         self.avg_reputation_per_round.append(avg_rep)
 
+        self.logger.log_reputation(
+            round_num,
+            self.server.reputation_engine.reputation_scores
+        )
+
     # -----------------------------
     # Run full simulation
     # -----------------------------
@@ -154,6 +162,8 @@ class SimulationRunner:
         print("\nSimulation complete")
 
         self.print_results()
+
+        self.logger.save_explanations()
 
         # FIX: Call graph function here
         self.plot_reputation_graph()
