@@ -52,2451 +52,1201 @@
     {
         "round": 3,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (51.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (56.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 3,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (51.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (56.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 3,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (51.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (56.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 3,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (51.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (56.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 3,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (51.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (56.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 4,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.00). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (60.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 4,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.00). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (60.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 4,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.00). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (60.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 4,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.00). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (60.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 4,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.00). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (60.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 5,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (64.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 5,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (64.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 5,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (64.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 5,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (64.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 5,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (64.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 6,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (63.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 6,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (63.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 6,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (63.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 6,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (63.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 6,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (63.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 7,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.60). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 7,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.60). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 7,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.60). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 7,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.60). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 7,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.60). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 8,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 8,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 8,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 8,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 8,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 9,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.00). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (64.10). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 9,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.00). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (64.10). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 9,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.00). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (64.10). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 9,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.00). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (64.10). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 9,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.00). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (64.10). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 10,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (63.70). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 10,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (63.70). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 10,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (63.70). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 10,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (63.70). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 10,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (63.70). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 11,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (64.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 11,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (64.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 11,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (64.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 11,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (64.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 11,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (64.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 12,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (64.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 12,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (64.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 12,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (64.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 12,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (64.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 12,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (64.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 13,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.60). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (63.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 13,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.60). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (63.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 13,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.60). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (63.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 13,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.60). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (63.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 13,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.60). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (63.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 14,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 14,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 14,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 14,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 14,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.20). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 15,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.10). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 15,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.10). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 15,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.10). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 15,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.10). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 15,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.10). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (63.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 16,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (63.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 16,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (63.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 16,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (63.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 16,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (63.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 16,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (63.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 17,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 17,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 17,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 17,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 17,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 18,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 18,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 18,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 18,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 18,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 19,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 19,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 19,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 19,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 19,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 20,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 20,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 20,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 20,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 20,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (63.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 21,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 21,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 21,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 21,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 21,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 22,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (63.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 22,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (63.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 22,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (63.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 22,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (63.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 22,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (63.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 23,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 23,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 23,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 23,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 23,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 24,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 24,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 24,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 24,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 24,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 25,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 25,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 25,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 25,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 25,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.40). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 26,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.00). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 26,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.00). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 26,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.00). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 26,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.00). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 26,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.00). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 27,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 27,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 27,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 27,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 27,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.90). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 28,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (61.80). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 28,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (61.80). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 28,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (61.80). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 28,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (61.80). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 28,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (61.80). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 29,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 29,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 29,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 29,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 29,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 30,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 30,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 30,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 30,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 30,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (54.30). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 31,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 31,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 31,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 31,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 31,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 32,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (61.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 32,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (61.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 32,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (61.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 32,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (61.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 32,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (61.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 33,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 33,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 33,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 33,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 33,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 34,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 34,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 34,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 34,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 34,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 35,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 35,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 35,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 35,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 35,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 36,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 36,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 36,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 36,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 36,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 37,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 37,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 37,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 37,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 37,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 38,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (61.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 38,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (61.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 38,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (61.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 38,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (61.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 38,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (61.40). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 39,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 39,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 39,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 39,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 39,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 40,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 40,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 40,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 40,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 40,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 41,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 41,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 41,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 41,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 41,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 42,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 42,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 42,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 42,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 42,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 43,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 43,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 43,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 43,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 43,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 44,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 44,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 44,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 44,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 44,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (62.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 45,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (61.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 45,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (61.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 45,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (61.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 45,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (61.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 45,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (61.60). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 46,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (61.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 46,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (61.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 46,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (61.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 46,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (61.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 46,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.90). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (61.50). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 47,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.50). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (61.80). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 47,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.50). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (61.80). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 47,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.50). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (61.80). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 47,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.50). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (61.80). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 47,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.50). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (61.80). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 48,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (61.80). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 48,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (61.80). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 48,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (61.80). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 48,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (61.80). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 48,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (61.80). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 49,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (61.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 49,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (61.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 49,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (61.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 49,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (61.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 49,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 10 observed moderate average reputation (61.00). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 50,
         "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 6 observed moderate average reputation (61.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 50,
         "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 7 observed moderate average reputation (61.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 50,
         "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 8 observed moderate average reputation (61.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 50,
         "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
+        "explanation": "Agent 9 observed moderate average reputation (61.20). It maintained fair behavior by taking approximately fair share (50.00)."
     },
     {
         "round": 50,
         "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.80). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 51,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 51,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 51,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 51,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 51,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 52,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 52,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 52,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 52,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 52,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 53,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 53,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 53,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 53,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 53,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 54,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 54,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 54,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 54,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 54,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 55,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.80). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 55,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.80). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 55,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.80). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 55,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.80). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 55,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.80). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 56,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 56,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 56,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 56,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 56,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 57,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 57,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 57,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 57,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 57,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 58,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 58,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 58,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 58,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 58,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 59,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 59,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 59,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 59,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 59,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 60,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 60,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 60,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 60,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 60,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 61,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 61,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 61,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 61,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 61,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 62,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 62,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 62,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 62,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 62,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 63,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 63,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 63,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 63,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 63,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 64,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 64,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 64,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 64,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 64,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 65,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.70). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 65,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.70). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 65,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.70). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 65,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.70). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 65,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.70). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 66,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (53.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 66,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (53.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 66,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (53.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 66,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (53.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 66,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (53.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 67,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 67,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 67,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 67,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 67,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 68,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.90). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 68,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.90). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 68,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.90). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 68,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.90). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 68,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.90). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 69,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.50). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 69,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.50). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 69,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.50). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 69,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.50). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 69,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.50). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 70,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.80). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 70,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.80). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 70,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.80). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 70,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.80). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 70,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.80). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 71,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.10). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 71,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.10). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 71,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.10). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 71,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.10). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 71,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.10). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 72,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 72,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 72,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 72,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 72,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 73,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 73,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 73,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 73,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 73,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 74,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 74,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 74,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 74,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 74,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 75,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 75,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 75,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 75,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 75,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.40). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 76,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (51.70). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 76,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (51.70). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 76,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (51.70). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 76,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (51.70). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 76,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (51.70). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 77,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 77,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 77,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 77,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 77,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 78,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (52.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 78,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (52.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 78,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (52.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 78,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (52.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 78,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (52.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 79,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (50.80). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 79,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (50.80). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 79,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (50.80). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 79,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (50.80). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 79,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (50.80). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 80,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (51.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 80,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (51.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 80,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (51.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 80,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (51.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 80,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (51.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 81,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (51.30). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 81,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (51.30). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 81,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (51.30). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 81,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (51.30). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 81,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (51.30). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 82,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (51.30). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 82,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (51.30). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 82,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (51.30). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 82,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (51.30). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 82,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (51.30). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 83,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (51.30). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 83,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (51.30). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 83,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (51.30). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 83,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (51.30). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 83,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (51.30). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 84,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (50.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 84,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (50.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 84,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (50.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 84,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (50.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 84,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (50.60). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 85,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (50.90). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 85,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (50.90). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 85,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (50.90). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 85,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (50.90). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 85,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (50.90). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 86,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (50.90). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 86,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (50.90). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 86,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (50.90). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 86,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (50.90). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 86,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (50.90). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 87,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (50.20). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 87,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (50.20). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 87,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (50.20). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 87,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (50.20). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 87,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (50.20). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 88,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (50.50). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 88,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (50.50). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 88,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (50.50). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 88,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (50.50). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 88,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (50.50). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 89,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (50.10). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 89,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (50.10). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 89,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (50.10). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 89,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (50.10). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 89,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (50.10). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 90,
-        "agent_id": 6,
-        "explanation": "Agent 6 detected lower average reputation (49.60), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 90,
-        "agent_id": 7,
-        "explanation": "Agent 7 detected lower average reputation (49.60), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 90,
-        "agent_id": 8,
-        "explanation": "Agent 8 detected lower average reputation (49.60), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 90,
-        "agent_id": 9,
-        "explanation": "Agent 9 detected lower average reputation (49.60), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 90,
-        "agent_id": 10,
-        "explanation": "Agent 10 detected lower average reputation (49.60), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 91,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (50.20). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 91,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (50.20). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 91,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (50.20). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 91,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (50.20). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 91,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (50.20). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 92,
-        "agent_id": 6,
-        "explanation": "Agent 6 detected lower average reputation (49.40), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 92,
-        "agent_id": 7,
-        "explanation": "Agent 7 detected lower average reputation (49.40), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 92,
-        "agent_id": 8,
-        "explanation": "Agent 8 detected lower average reputation (49.40), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 92,
-        "agent_id": 9,
-        "explanation": "Agent 9 detected lower average reputation (49.40), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 92,
-        "agent_id": 10,
-        "explanation": "Agent 10 detected lower average reputation (49.40), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 93,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (50.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 93,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (50.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 93,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (50.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 93,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (50.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 93,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (50.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 94,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (50.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 94,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (50.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 94,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (50.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 94,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (50.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 94,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (50.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 95,
-        "agent_id": 6,
-        "explanation": "Agent 6 observed moderate average reputation (50.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 95,
-        "agent_id": 7,
-        "explanation": "Agent 7 observed moderate average reputation (50.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 95,
-        "agent_id": 8,
-        "explanation": "Agent 8 observed moderate average reputation (50.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 95,
-        "agent_id": 9,
-        "explanation": "Agent 9 observed moderate average reputation (50.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 95,
-        "agent_id": 10,
-        "explanation": "Agent 10 observed moderate average reputation (50.00). It maintained fair behavior by taking approximately fair share (50.00)."
-    },
-    {
-        "round": 96,
-        "agent_id": 6,
-        "explanation": "Agent 6 detected lower average reputation (49.60), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 96,
-        "agent_id": 7,
-        "explanation": "Agent 7 detected lower average reputation (49.60), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 96,
-        "agent_id": 8,
-        "explanation": "Agent 8 detected lower average reputation (49.60), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 96,
-        "agent_id": 9,
-        "explanation": "Agent 9 detected lower average reputation (49.60), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 96,
-        "agent_id": 10,
-        "explanation": "Agent 10 detected lower average reputation (49.60), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 97,
-        "agent_id": 6,
-        "explanation": "Agent 6 detected lower average reputation (49.90), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 97,
-        "agent_id": 7,
-        "explanation": "Agent 7 detected lower average reputation (49.90), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 97,
-        "agent_id": 8,
-        "explanation": "Agent 8 detected lower average reputation (49.90), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 97,
-        "agent_id": 9,
-        "explanation": "Agent 9 detected lower average reputation (49.90), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 97,
-        "agent_id": 10,
-        "explanation": "Agent 10 detected lower average reputation (49.90), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 98,
-        "agent_id": 6,
-        "explanation": "Agent 6 detected lower average reputation (47.90), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 98,
-        "agent_id": 7,
-        "explanation": "Agent 7 detected lower average reputation (47.90), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 98,
-        "agent_id": 8,
-        "explanation": "Agent 8 detected lower average reputation (47.90), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 98,
-        "agent_id": 9,
-        "explanation": "Agent 9 detected lower average reputation (47.90), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 98,
-        "agent_id": 10,
-        "explanation": "Agent 10 detected lower average reputation (47.90), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 99,
-        "agent_id": 6,
-        "explanation": "Agent 6 detected lower average reputation (49.40), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 99,
-        "agent_id": 7,
-        "explanation": "Agent 7 detected lower average reputation (49.40), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 99,
-        "agent_id": 8,
-        "explanation": "Agent 8 detected lower average reputation (49.40), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 99,
-        "agent_id": 9,
-        "explanation": "Agent 9 detected lower average reputation (49.40), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 99,
-        "agent_id": 10,
-        "explanation": "Agent 10 detected lower average reputation (49.40), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 100,
-        "agent_id": 6,
-        "explanation": "Agent 6 detected lower average reputation (49.40), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 100,
-        "agent_id": 7,
-        "explanation": "Agent 7 detected lower average reputation (49.40), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 100,
-        "agent_id": 8,
-        "explanation": "Agent 8 detected lower average reputation (49.40), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 100,
-        "agent_id": 9,
-        "explanation": "Agent 9 detected lower average reputation (49.40), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
-    },
-    {
-        "round": 100,
-        "agent_id": 10,
-        "explanation": "Agent 10 detected lower average reputation (49.40), suggesting reduced trust. It acted defensively by increasing its share (60.00)."
+        "explanation": "Agent 10 observed moderate average reputation (61.20). It maintained fair behavior by taking approximately fair share (50.00)."
     }
 ]

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>AI Reputation System</title>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+
+body {
+    font-family: Arial;
+    background: #0f172a;
+    color: white;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+}
+
+.card {
+    background: #1e293b;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px;
+    background: #3b82f6;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>AI Reputation System Dashboard</h1>
+
+<div class="card">
+
+Humans:
+<input id="humans" type="number" value="5">
+
+Agents:
+<input id="agents" type="number" value="5">
+
+Rounds:
+<input id="rounds" type="number" value="50">
+
+<button onclick="startGame()">Start Game</button>
+
+</div>
+
+<div class="container">
+
+<div class="card">
+<h2>Status</h2>
+<div id="status"></div>
+</div>
+
+<div class="card">
+<h2>Players</h2>
+<div id="players"></div>
+</div>
+
+<div class="card">
+<h2>Live Explanations</h2>
+<div id="explanations" style="height:200px;overflow:auto;"></div>
+</div>
+
+</div>
+
+<div class="card">
+
+<h2>Reputation Graph</h2>
+<canvas id="chart"></canvas>
+
+</div>
+
+<script src="js/main.js"></script>
+
+</body>
+</html>

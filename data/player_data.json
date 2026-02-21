@@ -4,71 +4,652 @@
             "player_id": 1,
             "name": "Human_1",
             "is_agent": false,
-            "total_taken": 1425.2436731656016,
-            "reputation": 40
+            "total_taken": 227.80548302074726,
+            "reputation": 100
         },
         {
             "player_id": 2,
             "name": "Human_2",
             "is_agent": false,
-            "total_taken": 1194.8862860276872,
-            "reputation": 61
+            "total_taken": 262.8941116416789,
+            "reputation": 100
         },
         {
             "player_id": 3,
             "name": "Human_3",
             "is_agent": false,
-            "total_taken": 1098.9969371923917,
-            "reputation": 57
+            "total_taken": 257.00513911102735,
+            "reputation": 100
         },
         {
             "player_id": 4,
             "name": "Human_4",
             "is_agent": false,
-            "total_taken": 1375.6357092307028,
-            "reputation": 41
+            "total_taken": 254.35514006479846,
+            "reputation": 100
         },
         {
             "player_id": 5,
             "name": "Human_5",
             "is_agent": false,
-            "total_taken": 1301.2936942118954,
-            "reputation": 40
+            "total_taken": 250.86404022328514,
+            "reputation": 100
         },
         {
             "player_id": 6,
             "name": "AI_1",
             "is_agent": true,
-            "total_taken": 1460.0,
-            "reputation": 51
+            "total_taken": 200.00000000000009,
+            "reputation": 100
         },
         {
             "player_id": 7,
             "name": "AI_2",
             "is_agent": true,
-            "total_taken": 1460.0,
-            "reputation": 51
+            "total_taken": 200.00000000000009,
+            "reputation": 100
         },
         {
             "player_id": 8,
             "name": "AI_3",
             "is_agent": true,
-            "total_taken": 1460.0,
-            "reputation": 51
+            "total_taken": 200.00000000000009,
+            "reputation": 100
         },
         {
             "player_id": 9,
             "name": "AI_4",
             "is_agent": true,
-            "total_taken": 1460.0,
-            "reputation": 51
+            "total_taken": 200.00000000000009,
+            "reputation": 100
         },
         {
             "player_id": 10,
             "name": "AI_5",
             "is_agent": true,
-            "total_taken": 1460.0,
-            "reputation": 51
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 11,
+            "name": "AI_6",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 12,
+            "name": "AI_7",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 13,
+            "name": "AI_8",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 14,
+            "name": "AI_9",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 15,
+            "name": "AI_10",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 16,
+            "name": "AI_11",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 17,
+            "name": "AI_12",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 18,
+            "name": "AI_13",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 19,
+            "name": "AI_14",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 20,
+            "name": "AI_15",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 21,
+            "name": "AI_16",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 22,
+            "name": "AI_17",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 23,
+            "name": "AI_18",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 24,
+            "name": "AI_19",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 25,
+            "name": "AI_20",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 26,
+            "name": "AI_21",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 27,
+            "name": "AI_22",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 28,
+            "name": "AI_23",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 29,
+            "name": "AI_24",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 30,
+            "name": "AI_25",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 31,
+            "name": "AI_26",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 32,
+            "name": "AI_27",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 33,
+            "name": "AI_28",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 34,
+            "name": "AI_29",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 35,
+            "name": "AI_30",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 36,
+            "name": "AI_31",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 37,
+            "name": "AI_32",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 38,
+            "name": "AI_33",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 39,
+            "name": "AI_34",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 40,
+            "name": "AI_35",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 41,
+            "name": "AI_36",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 42,
+            "name": "AI_37",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 43,
+            "name": "AI_38",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 44,
+            "name": "AI_39",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 45,
+            "name": "AI_40",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 46,
+            "name": "AI_41",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 47,
+            "name": "AI_42",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 48,
+            "name": "AI_43",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 49,
+            "name": "AI_44",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 50,
+            "name": "AI_45",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 51,
+            "name": "AI_46",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 52,
+            "name": "AI_47",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 53,
+            "name": "AI_48",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 54,
+            "name": "AI_49",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 55,
+            "name": "AI_50",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 56,
+            "name": "AI_51",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 57,
+            "name": "AI_52",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 58,
+            "name": "AI_53",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 59,
+            "name": "AI_54",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 60,
+            "name": "AI_55",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 61,
+            "name": "AI_56",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 62,
+            "name": "AI_57",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 63,
+            "name": "AI_58",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 64,
+            "name": "AI_59",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 65,
+            "name": "AI_60",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 66,
+            "name": "AI_61",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 67,
+            "name": "AI_62",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 68,
+            "name": "AI_63",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 69,
+            "name": "AI_64",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 70,
+            "name": "AI_65",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 71,
+            "name": "AI_66",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 72,
+            "name": "AI_67",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 73,
+            "name": "AI_68",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 74,
+            "name": "AI_69",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 75,
+            "name": "AI_70",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 76,
+            "name": "AI_71",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 77,
+            "name": "AI_72",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 78,
+            "name": "AI_73",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 79,
+            "name": "AI_74",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 80,
+            "name": "AI_75",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 81,
+            "name": "AI_76",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 82,
+            "name": "AI_77",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 83,
+            "name": "AI_78",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 84,
+            "name": "AI_79",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 85,
+            "name": "AI_80",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 86,
+            "name": "AI_81",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 87,
+            "name": "AI_82",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 88,
+            "name": "AI_83",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 89,
+            "name": "AI_84",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 90,
+            "name": "AI_85",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 91,
+            "name": "AI_86",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 92,
+            "name": "AI_87",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
+        },
+        {
+            "player_id": 93,
+            "name": "AI_88",
+            "is_agent": true,
+            "total_taken": 200.00000000000009,
+            "reputation": 100
         }
     ]
 }
