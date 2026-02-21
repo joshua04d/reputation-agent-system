@@ -37,57 +37,53 @@ class ReputationEngine:
     # Update reputation after round
     # -----------------------------
     def update_reputation(self, player_id, amount_taken, fair_share, round_number):
-        """
-        Updates player reputation based on fairness
-        """
+     self.initialize_player(player_id)
 
-        self.initialize_player(player_id)
+     # Calculate fairness ratio
+     fairness_ratio = amount_taken / fair_share if fair_share > 0 else 1
 
-        # Calculate fairness ratio
-        fairness_ratio = amount_taken / fair_share if fair_share > 0 else 1
+     if fairness_ratio <= 1:
+         fairness = "fair"
+         fairness_change = 2
+     elif fairness_ratio <= 1.5:
+         fairness = "greedy"
+         fairness_change = -2
+     else:
+         fairness = "very_greedy"
+         fairness_change = -5
 
-        # Determine fairness score change
-        if fairness_ratio <= 1:
-            # Fair behavior → increase reputation
-            change = 2
-            fairness = "fair"
-        elif fairness_ratio <= 1.5:
-            # Slightly greedy → small penalty
-            change = -2
-            fairness = "greedy"
-        else:
-            # Very greedy → big penalty
-            change = -5
-            fairness = "very_greedy"
+     # TEMP: append history first (without score yet)
+     self.player_history[player_id].append({
+         "round": round_number,
+         "taken": amount_taken,
+         "fair_share": fair_share,
+         "fairness": fairness
+     })
 
-        # Update reputation score
-        # Base fairness change
-        new_score = self.reputation_scores[player_id] + change
-        
-        # Add consistency bonus/penalty
-        consistency_change = self.calculate_consistency_score(player_id)
-        new_score += consistency_change
-        
-        # Add recovery bonus
-        recovery_change = self.calculate_recovery_score(player_id)
-        new_score += recovery_change
+     # NOW calculate consistency and recovery using updated history
+     consistency_change = self.calculate_consistency_score(player_id)
+     recovery_change = self.calculate_recovery_score(player_id)
 
+     # Calculate final score
+     new_score = (
+         self.reputation_scores[player_id]
+         + fairness_change
+         + consistency_change
+         + recovery_change
+     )
 
-        # Clamp score between min and max
-        new_score = max(self.min_score, min(self.max_score, new_score))
+     # Clamp score
+     new_score = max(self.min_score, min(self.max_score, new_score))
 
-        self.reputation_scores[player_id] = new_score
+     self.reputation_scores[player_id] = new_score
 
-        # Store history
-        self.player_history[player_id].append({
-        "round": round_number,
-        "taken": amount_taken,
-        "fair_share": fair_share,
-        "fairness": fairness,
-        "score": new_score,
-        "consistency_change": consistency_change,
-        "recovery_change": recovery_change
-        })
+     # Update latest history entry with score info
+     self.player_history[player_id][-1].update({
+         "score": new_score,
+         "fairness_change": fairness_change,
+         "consistency_change": consistency_change,
+         "recovery_change": recovery_change
+     })
 
 
     # -----------------------------
