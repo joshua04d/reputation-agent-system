@@ -1,5 +1,5 @@
 # simulations/simulation_runner.py
-
+import matplotlib.pyplot as plt
 import random
 from backend.server import GameServer
 
@@ -134,3 +134,64 @@ class SimulationRunner:
         final_avg_rep = self.avg_reputation_per_round[-1]
 
         print(f"Final Average Reputation: {final_avg_rep:.2f}")
+
+    # -----------------------------
+    # Run full simulation
+    # -----------------------------
+    def run_simulation(self):
+
+        print("\nStarting simulation...")
+
+        self.setup_players()
+
+        for round_num in range(1, self.num_rounds + 1):
+
+            self.run_round(round_num)
+
+            if round_num % 10 == 0:
+                print(f"Completed round {round_num}")
+
+        print("\nSimulation complete")
+
+        self.print_results()
+
+        # FIX: Call graph function here
+        self.plot_reputation_graph()
+
+
+    # -----------------------------
+    # Print metrics
+    # -----------------------------
+    def print_results(self):
+
+        print("\n=== SIMULATION RESULTS ===")
+
+        print(f"Total Rounds: {self.num_rounds}")
+        print(f"Cooperation Rounds: {self.cooperation_count}")
+        print(f"Penalty Rounds: {self.penalty_count}")
+
+        cooperation_rate = self.cooperation_count / self.num_rounds
+
+        print(f"Cooperation Rate: {cooperation_rate:.2f}")
+
+        final_avg_rep = self.avg_reputation_per_round[-1]
+
+        print(f"Final Average Reputation: {final_avg_rep:.2f}")
+
+
+    # -----------------------------
+    # Plot reputation graph
+    # -----------------------------
+    def plot_reputation_graph(self):
+
+        plt.figure(figsize=(10, 5))
+
+        plt.plot(self.avg_reputation_per_round, linewidth=2)
+
+        plt.title("Average Reputation vs Time")
+        plt.xlabel("Round")
+        plt.ylabel("Average Reputation")
+
+        plt.grid(True)
+
+        plt.show()
